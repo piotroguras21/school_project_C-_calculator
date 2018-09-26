@@ -1,0 +1,16 @@
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\obj\x86\Debug\Kalkulator.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\obj\x86\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\User\AppData\Local\Temporary Projects\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\User\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Form1.resources
+C:\Users\User\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\User\Desktop\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Programowanie w C#\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\Users\User\Desktop\Programowanie w C#\Kalkulator\Kalkulator\obj\x86\Debug\Kalkulator.pdb
